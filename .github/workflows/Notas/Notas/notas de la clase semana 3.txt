@@ -1,0 +1,6 @@
+- Todos los datos  que se escriban en minisculas son primitivos.
+EJM:
+- dato primitivo = int
+- dato  Integer. = clase
+- Se usa una variable para establecer el control en un arreglo unidimencional.
+- Todas las clases se inicializan con (null).
